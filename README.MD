@@ -1,5 +1,5 @@
 # Initialization
-- 1 Clone the repositiory
+- 1 Clone the repository
 - 2 Complete the env file 
     - Obtain mongoDB connection string by reffering this link https://www.mongodb.com/docs/guides/atlas/connection-string ,and paste your string in front of "mongoURI" in the env.
 
